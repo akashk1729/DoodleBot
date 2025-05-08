@@ -58,10 +58,7 @@ Install the following tools and Python libraries:
 Create a `requirements.txt` and install using:
 ```bash
 pip3 install -r requirements.txt
--
 
 ### Cloning the Repo
-
-```bash
-git clone https://github.com/your-org/doodlebot.git
+git clone https://github.com/MrigeeshAshwin/doodlebot.git
 cd doodlebot
