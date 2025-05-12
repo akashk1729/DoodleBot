@@ -16,23 +16,6 @@ This repository contains all code, documentation, and resources required to buil
 For doubts, discussions, or collaboration, feel free to reach out to the mentors via Discord/email.
 
 ---
-
-## Week-wise Plan
-
-| Week | Focus Area                                  | Deliverables                                             |
-|------|---------------------------------------------|----------------------------------------------------------|
-| 1    | Python and Computer Vision Basics                      | ArUco tag detection, coordinate extraction               |
-| 2    | Raspberry Pi Setup                          | OS setup, camera enable, SSH access, GPIO intro          |
-| 3    | GUI + LCD Interfacing                       | Touchscreen GUI to draw and send instructions            |
-| 4    | Bot Locomotion (DC Motors + Drivers)        | Basic motion control using L298N / L9110S                |
-| 5-6    | PID Tuning + Feedback Control               | Implement closed-loop control using camera input         |
-| 7    | System Integration                          | Bot draws input image using localization + PID           |
-| 8    | Final Testing & Presentation                | Project report, demo video, and documentation            |
-
-*Each week includes short review sessions and debugging check-ins.*
-
-----
-
 ## Hardware Requirements
 
 | Component                       | Description                                                                 |
