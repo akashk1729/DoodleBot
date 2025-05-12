@@ -21,8 +21,7 @@ For doubts, discussions, or collaboration, feel free to reach out to the mentors
 
 | Week | Focus Area                                  | Deliverables                                             |
 |------|---------------------------------------------|----------------------------------------------------------|
-| 0    | Introduction to Python & Essential Libraries | Assignments using `python libraries` etc.  |
-| 1    | Computer Vision Basics                      | ArUco tag detection, coordinate extraction               |
+| 1    | Python and Computer Vision Basics                      | ArUco tag detection, coordinate extraction               |
 | 2    | Raspberry Pi Setup                          | OS setup, camera enable, SSH access, GPIO intro          |
 | 3    | GUI + LCD Interfacing                       | Touchscreen GUI to draw and send instructions            |
 | 4    | Bot Locomotion (DC Motors + Drivers)        | Basic motion control using L298N / L9110S                |
