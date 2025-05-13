@@ -43,7 +43,7 @@ All assignments should be submitted via **Pull Requests (PRs)** to this reposito
 
 2. **Clone your forked repository** to your local system:
    ```bash
-   git clone https://github.com/<your-username>/assignment-submissions.git
+   git clone https://github.com/MrigeeshAshwin/DoodleBot.git cd DoodleBot
 
 3. **Create a new branch** for your assignment:
    ```bash
